@@ -4,6 +4,10 @@ html {
   height: 100%;
 }
 
+.about__inner {
+  background-color: #48246d;
+}
+
 .about__inner font {
   color: red;
   background-color: plum;
